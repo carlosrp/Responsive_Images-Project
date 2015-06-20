@@ -1,0 +1,40 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+  margin: 2em;
+  font-family: 'Baumans', cursive;;
+}
+
+.headline {
+  font-family: 'Expletus Sans', cursive;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+article, .headline {
+  max-width: 46em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+
+}
+
+img, h1 {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
